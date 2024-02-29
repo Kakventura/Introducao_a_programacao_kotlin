@@ -1,7 +1,3 @@
 Resolução do terceiro exercício:
 
-> Monday
-> Tuesday
-> Wednesday 
-> Thursday
-> Friday
+> Monday <br> Tuesday <br> Wednesday <br> Thursday <br> Friday
