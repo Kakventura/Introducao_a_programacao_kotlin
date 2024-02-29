@@ -1,4 +1,3 @@
-# Introducao_a_programacao_kotlin
 
 Resolução do primeiro exercício
 
