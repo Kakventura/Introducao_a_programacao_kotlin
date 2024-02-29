@@ -1,1 +1,6 @@
-# Introducao_a_programacao_kotlin
+Resolução do segundo exercício
+
+> Resposta:
+> I'm 
+> Learning
+> Kotlin
