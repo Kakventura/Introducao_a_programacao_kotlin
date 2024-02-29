@@ -1,1 +1,7 @@
-# Introducao_a_programacao_kotlin
+Resolução do terceiro exercício:
+
+> Monday
+> Tuesday
+> Wednesday 
+> Thursday
+> Friday
