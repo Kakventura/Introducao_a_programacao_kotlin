@@ -2,5 +2,6 @@
 Este repositório tem por objetivo demonstrar códigos desenvolvidos durante o curso de Introdução à Kotlin em: 
 > https://developer.android.com/
 <br>
-> [!NOTE]
-> Selo da conclusão do curso pode ser visualizado em: https://g.dev/kaangelo
+
+Acesso ao selo de conclusão do curso:
+> https://g.dev/kaangelo
