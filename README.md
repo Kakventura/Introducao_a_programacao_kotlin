@@ -1,1 +1,3 @@
-# Introducao_a_programacao_kotlin
+Resolução do quinta exercício:
+
+> There is a chance of snow
