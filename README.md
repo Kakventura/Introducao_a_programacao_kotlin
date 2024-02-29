@@ -1,5 +1,3 @@
-Resolução do segundo exercício
+Resolução do segundo exercício:
 
-> I'm 
-> Learning
-> Kotlin
+> I'm <br> Learning <br> Kotlin
