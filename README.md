@@ -1,1 +1,3 @@
-# Introducao_a_programacao_kotlin
+Resolução do quinto exercício:
+
+> "How's the weather today?"
