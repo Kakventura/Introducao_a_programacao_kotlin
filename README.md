@@ -1,1 +1,3 @@
-# Introducao_a_programacao_kotlin
+Resolução do sexto exercício:
+
+> Cloudy <br> Partly Cloudy <br> Windy
