@@ -3,5 +3,5 @@ Este repositório tem por objetivo demonstrar códigos desenvolvidos durante o c
 > https://developer.android.com/
 <br>
 
-Acesso ao selo de conclusão do curso:
+Visualização do selo de conclusão do curso:
 > https://g.dev/kaangelo
