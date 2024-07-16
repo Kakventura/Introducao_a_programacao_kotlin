@@ -1,8 +1,11 @@
-# Introdução à Programação Kotlin
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=76C714&size=35&center=true&vCenter=true&width=1000&lines=Introdução+ao+Kotlin)](https://git.io/typing-svg) 
+#
+- Este repositório tem por objetivo demonstrar o desenvolvimento, primeiro contato e prática do conteúdo de um módulo do curso Noções Básicas do Android Compose: "Introduction to Kotlin" - Introdução ao Kotlin, disponibilizado no target abaixo, juntamente com o acesso ao selo de conclusão do módulo.
 
-Este repositório tem por objetivo demonstrar códigos desenvolvidos durante o curso de Introdução à Kotlin em: 
-> https://developer.android.com/
-<br>
+<div align="center"> 
+  <a href="https://developer.android.com/courses/pathways/android-basics-compose-unit-1-pathway-1" target="_blank"><img src="https://img.shields.io/badge/Introdução ao Kotlin-343333?style=for-the-badge&logo=android-studio&logoColor=33cc33"></a>
+  <a href="https://g.dev/kaangelo" target="_blank"><img src="https://img.shields.io/badge/Selo de Conclusão-343333?style=for-the-badge&logo=android-studio&logoColor=33cc33"></a>
+</div>
 
-Visualização do selo de conclusão do curso:
-> https://g.dev/kaangelo
+#
+<a href="https://developer.android.com/courses/pathways/android-basics-compose-unit-1-pathway-1" target="_blank"><img src="https://img.shields.io/badge/1° Código:-343333?style=for-the-badge&logo=android-studio&logoColor=33cc33"></a>
