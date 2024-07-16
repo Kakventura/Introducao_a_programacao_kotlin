@@ -8,4 +8,15 @@
 </div>
 
 #
-<a href="https://developer.android.com/courses/pathways/android-basics-compose-unit-1-pathway-1" target="_blank"><img src="https://img.shields.io/badge/1° Código:-343333?style=for-the-badge&logo=android-studio&logoColor=33cc33"></a>
+<a href="https://github.com/Kakventura/Introducao_a_programacao_kotlin/blob/exercicio01/exercicio01.kt" target="_blank"><img src="https://img.shields.io/badge/1° Código:-343333?style=for-the-badge&logo=android-studio&logoColor=33cc33"></a>
+
+![Captura de tela 2024-07-15 213322](https://github.com/user-attachments/assets/35e7668b-3f5b-47d5-8d9a-411a89f5db70)
+
+#
+
+<a href="https://github.com/Kakventura/Introducao_a_programacao_kotlin/blob/exercicio01/exercicio01.kt" target="_blank"><img src="https://img.shields.io/badge/1° Código:-343333?style=for-the-badge&logo=android-studio&logoColor=33cc33"></a>
+
+![Captura de tela 2024-07-15 213322](https://github.com/user-attachments/assets/35e7668b-3f5b-47d5-8d9a-411a89f5db70)
+
+
+
